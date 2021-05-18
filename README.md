@@ -1,4 +1,4 @@
-# XRR-pipeline-for-sequencing-data
+# XRR-pipeline-for-sequencing-data-aDNA
 After sequencing, on phoenix (/hpcfs/groups/acad_users/NGS) create a folder named:
 Date_TypeOfSeq_Owner_InfoOfTheProject_SequencingID
 
